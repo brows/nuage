@@ -1,0 +1,10 @@
+sites/*/settings.php
+sites/*/civicrm.settings.php
+sites/*/files
+
+*.mysql
+
+*.sql
+*.tar
+*.gz
+*.zip
