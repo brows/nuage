@@ -8,3 +8,4 @@ sites/*/files
 *.tar
 *.gz
 *.zip
+*.htaccess
